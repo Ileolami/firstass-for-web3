@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@500&family=Playfair+Display:ital@1&family=Raleway:ital,wght@0,400;1,700&display=swap');
+
+body{
+
+  background-color:#3CCF4E;
+
+  background-image: url(https://images.pexels.com/photos/3308588/pexels-photo-3308588.jpeg?cs=srgb&dl=pexels-mnm-zameer-3308588.jpg&fm=jpg);
+
+  color: white;
+
+}
+
+div nav{
+
+  display: flex;
+
+  justify-content:flex-end;
+
+  background-color:#D4F6CC;
+
+ font-family:  'Raleway', sans-serif ;
+
+}
+
+nav a {
+
+  display:inline-block;
+
+  margin: 10px 50px;
+
+  color: black;
+
+  text-decoration: lightseagreen;
+
+}
+
+.container{
+
+  display: flex;
+
+  justify-content: space-around;
+
+  font-size: 10px;
+
+  margin: 20px;
+
+}
+
+h4{
+
+ font-family: 'Playfair Display', serif; ;
+
+    font-style: italic;
+
+    
+
+}
+
+.expect{
+
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+
+}
+
+img{
+
+  width: 370px;
+
+  height:300px;
+
+}
+
+.tag{
+
+  font-size:10px;
+
+}
